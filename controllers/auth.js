@@ -322,7 +322,7 @@ exports.signupEmailSand = async (req, res, next) =>{
       <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td style="text-align: center;">
-            <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Bitpay Capital </a></h1> 
+            <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Experttrades </a></h1> 
           </td>
         </tr>
       </table>
@@ -340,7 +340,7 @@ exports.signupEmailSand = async (req, res, next) =>{
           <td>
             <div style="padding: 0 1.5em; text-align: center;">
               <h3 style="font-family: 'Lato', sans-serif; color: black; font-size: 30px; margin-bottom: 0; font-weight: 400;">Hi ${UserEmail.userName}!</h3>
-              <h4 style="font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 300;">Welcome to Bitpay Capital , your Number 1 online trading platform.</h4>
+              <h4 style="font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 300;">Welcome to Experttrades , your Number 1 online trading platform.</h4>
               <span>
                 Your Trading account has been set up successfully 
               </span>
@@ -449,7 +449,7 @@ exports.loginEmailSand = async (req, res, next) =>{
       <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td style="text-align: center;">
-            <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Bitpay Capital </a></h1> 
+            <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Experttrades </a></h1> 
           </td>
         </tr>
       </table>
@@ -467,7 +467,7 @@ exports.loginEmailSand = async (req, res, next) =>{
           <td>
             <div style="padding: 0 1.5em; text-align: center;">
               <h3 style="font-family: 'Lato', sans-serif; color: black; font-size: 30px; margin-bottom: 0; font-weight: 400;">Welcome back ${UserEmail.userName}!</h3>
-              <h4 style="font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 300;">You have successfully logged in to,<br/> <span style=" font-weight: 500; color:#EABD4E; margin-top:-10px; font-size: 20px;"> Bitpay Capital/span></h4>
+              <h4 style="font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 300;">You have successfully logged in to,<br/> <span style=" font-weight: 500; color:#EABD4E; margin-top:-10px; font-size: 20px;"> Experttrades </span></h4>
               <span>If you did not initiate this, change your password immediately and send our Customer Center an email to <br/> <p style="color: blue">${process.env.USER}</p></span>
             </div>
           </td>
